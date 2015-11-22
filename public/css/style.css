@@ -1,0 +1,25 @@
+.empty-list{
+	padding: 10px;
+	margin-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	background-color: #DBFFFF;
+}
+
+.block-images{
+	position: relative;
+	margin: 10px 0px;
+}
+
+.img-style{
+	max-width: 200px;
+	max-height: 150px;
+	margin: 5px;
+}
+
+.box-style{
+	margin: 15px 0px;
+	padding: 10px;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+}
